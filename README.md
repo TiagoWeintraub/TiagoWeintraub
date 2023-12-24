@@ -1,6 +1,6 @@
 [![MasterHead](https://th.bing.com/th/id/R.4fae230a415b0a3fb12ea09ed6d51616?rik=vSJgwEGiDWN5Mw&pid=ImgRaw&r=0)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Tiago Weintraub</h1>
-<h3 align="center">A happy advanced student of Computer Engineering at the University of Mendoza.</h3>
+<h3 align="center">A friendly advanced student of Computer Engineering at the University of Mendoza.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tiagoweintraub&label=Profile%20views&color=0e75b6&style=flat" alt="tiagoweintraub"/></p>
