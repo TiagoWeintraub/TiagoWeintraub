@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TiagoWeintraub](https://github.com/TiagoWeintraub)
 
-- 📫 How to reach me [tiagoweintraub23@gmail.com)
+- 📫 How to reach me tiagoweintraub23@gmail.com
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tiago-weintraub-971b77215/](https://www.linkedin.com/in/tiago-weintraub-971b77215/)
 
