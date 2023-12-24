@@ -1,13 +1,13 @@
 [![MasterHead](https://th.bing.com/th/id/R.4fae230a415b0a3fb12ea09ed6d51616?rik=vSJgwEGiDWN5Mw&pid=ImgRaw&r=0)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Tiago Weintraub</h1>
 <h3 align="center">A happy advanced student of Computer Engineering at the University of Mendoza.</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.75e7ef7aa27009befb076509382b86b8?rik=wLbMrCLkhDS8tg&pid=ImgRaw&r=0">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tiagoweintraub&label=Profile%20views&color=0e75b6&style=flat" alt="tiagoweintraub"/></p>
 
 - 🔭 I’m currently working on **studies and projects**
 
-- 🌱 I'm currently learning **frontend technologies, Python libraries and frameworks, etc.**
+- 🌱 I’m learning **frontend technologies, Python libraries and frameworks, etc.**
 
 - 🤝 I like to do **freelance work with colleagues, friends.**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tiago-weintraub-971b77215/](https://www.linkedin.com/in/tiago-weintraub-971b77215/)
 
-- ⚡ Fun fact **I love to play sports**
+- ⚡ A fact about me **I love to play sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
