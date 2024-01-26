@@ -11,6 +11,10 @@
 
 - 🤝 I like to do **freelance work with colleagues, friends.**
 
+- ⚡ My favourite programming language is **Python**
+
+- | I know about agile methodologies for project management, mainly the Scrum methodology
+
 - 👨‍💻 All of my projects are available at [https://github.com/TiagoWeintraub](https://github.com/TiagoWeintraub)
 
 - 📫 How to reach me tiagoweintraub23@gmail.com
