@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/R.4fae230a415b0a3fb12ea09ed6d51616?rik=vSJgwEGiDWN5Mw&pid=ImgRaw&r=0)](https://rishavchanda.io)
+[![MasterHead](https://th.bing.com/th/id/R.b9ba0fff76bbbe30108617bb9bcec733?rik=HoGXlcUgXWNKdQ&pid=ImgRaw&r=0)
 <h1 align="center">Hi 👋, I'm Tiago Weintraub</h1>
 <h3 align="center">An advanced student of Computer Engineering at the University of Mendoza.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
