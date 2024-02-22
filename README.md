@@ -1,4 +1,4 @@
-![MasterHead](https://images.ctfassets.net/cjwb7umaxoxv/3AdsJbL7xBARrvz2QzWab6/96b1925db1b4101b37bba60dad7463f0/Dolt_datbase.jpg?w=750&h=375&q=50)
+![MasterHead](https://i.pinimg.com/originals/88/b7/d2/88b7d20635a07092dfd3d12e8fd70779.jpg)
 <h1 align="center">Hi 👋, I'm Tiago Weintraub</h1>
 <h3 align="center">An advanced student of Computer Engineering at the University of Mendoza.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
