@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.pngtree.com%2Ffreebackground%2Fblue-minimalistic-tech-computer-banner-poster-background_1083507.html&psig=AOvVaw1iU1l_3usUbzt26wmxzpAz&ust=1719544328976000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD3zIvo-oYDFQAAAAAdAAAAABAJ)
+![MasterHead](https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-blue-minimalistic-tech-computer-banner-poster-background-image_178088.jpg)
 <h1 align="center">Hi 👋, I'm Tiago Weintraub</h1>
 <h3 align="center">An advanced student of Computer Engineering at the University of Mendoza.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
