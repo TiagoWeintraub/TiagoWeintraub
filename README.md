@@ -1,7 +1,7 @@
-![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gif)
+![MasterHead](https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif)
 <h1 align="center">Hi 👋, I'm Tiago Weintraub</h1>
 <h3 align="center">An advanced student of Computer Engineering at the University of Mendoza.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo8r4uD2GNKSUO12cE6cS-wGp_47FFyl3wTbnZpI9X4ccVxssAHEtBDJ95JUzRnYTwEok&usqp=CAU>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tiagoweintraub&label=Profile%20views&color=0e75b6&style=flat" alt="tiagoweintraub"/></p>
 
