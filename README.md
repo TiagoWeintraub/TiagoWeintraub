@@ -61,7 +61,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagoweintraub&show_icons=true&locale=en" alt="tiagoweintraub" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagoweintraub&show_icons=true&locale=es" alt="tiagoweintraub" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagoweintraub&" alt="tiagoweintraub" /></p>
 
