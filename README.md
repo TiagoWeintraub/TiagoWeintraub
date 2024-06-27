@@ -1,4 +1,4 @@
-<center>![MasterHead](https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif)</center>center>
+<p align="center">[MasterHead](https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif)</p>
 <h1 align="center">Hi 👋, I'm Tiago Weintraub</h1>
 <h3 align="center">An advanced student of Computer Engineering at the University of Mendoza.</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo8r4uD2GNKSUO12cE6cS-wGp_47FFyl3wTbnZpI9X4ccVxssAHEtBDJ95JUzRnYTwEok&usqp=CAU>
