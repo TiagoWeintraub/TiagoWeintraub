@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **studies and projects**
 
-- 🌱 I’m learning **frontend technologies, Python libraries and frameworks, etc.**
+- 🌱 I’m learning **frontend and backend technologies, Python libraries and frameworks, etc.**
 
 - 🤝 I like to do **freelance work with colleagues, friends.**
 
