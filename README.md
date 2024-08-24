@@ -1,6 +1,6 @@
 
-<h1 align="center">💻 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Tiago Weintraub</h1>
-<h3 align="center">An advanced student of Computer Engineering at the University of Mendoza.</h3>
+<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Tiago Weintraub</h1>
+<h3 align="center">💻 An advanced student of Computer Engineering at the University of Mendoza.</h3>
 
 <div align='center' style="margin-bottom: 30px;">
   <h3 align="center">📲 Connect with me:</h3>
