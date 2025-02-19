@@ -28,9 +28,9 @@
 
 - 📈 I know about agile methodologies for project management, mainly the Scrum methodology
 
-- 👨‍💻 All of my projects are available at [https://github.com/TiagoWeintraub](https://github.com/TiagoWeintraub)
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/TiagoWeintraub)**.
 
-- 💬 Know more about me [https://www.linkedin.com/in/tiago-weintraub-971b77215/](https://www.linkedin.com/in/tiago-weintraub-971b77215/)
+- 💬 Know more about me on **[Linkedin](https://www.linkedin.com/in/tiago-weintraub-971b77215/)**.
 
 - 📄 Check out my **[CV here](https://drive.google.com/file/d/1IgEknowsJE5k4zEOz0PEa9VesQRbteDp/view?usp=sharing)**.
 
