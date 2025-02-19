@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&color=F77F0C&width=550&lines=Passionate+about+development+and+contiunuous+learning;Powered+by+data+and+teamwork;Crafting+solutions+through+code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&color=F77F0C&vCenter=true&width=650&lines=Passionate+about+development+and+contiunuous+learning;Powered+by+data+and+teamwork;Crafting+solutions+through+code" alt="Typing Animation" />
 </p>
 
 ---
