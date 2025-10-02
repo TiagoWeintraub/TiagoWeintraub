@@ -6,12 +6,12 @@
 
 <h3 align="center">💻 Estudiante avanzado de Ingeneiería en Informática en la Universidad de Mendoza - Advanced student of Computer Engineering at the University of Mendoza</h3>
 
-<h3 align="center">💻 Ingeniero de Datos - Data Engineer</h3>
+<h3 align="center">📊 Ingeniero de Datos - Data Engineer</h3>
 
 ---
 
 <div align='center' style="margin-bottom: 30px;">
-  <p align="center">📲 Conecta conmigo / Connect with me:</p>
+  <h4 align="center">📲 Conecta conmigo / Connect with me:</h4>
   <p align="center">
     <a href="https://linkedin.com/in/tiagoweintraub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiagoweintraub" height="30" width="40" /></a>
     <a href="https://instagram.com/tiagoweintraub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiagoweintraub" height="30" width="40" /></a>
