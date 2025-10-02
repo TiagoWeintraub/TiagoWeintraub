@@ -1,9 +1,10 @@
 
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Tiago Weintraub</h1>
-<h3 align="center">💻 An advanced student of Computer Engineering at the University of Mendoza.</h3>
+<h3 align="center">💻 Estudiante avanzado de Ingeneiería en Informática en la Universidad de Mendoza - Ingeniero de Datos</h3>
+<h3 align="center">💻 Advanced student of Computer Engineering at the University of Mendoza - Data Engineer</h3>
 
 <div align='center' style="margin-bottom: 30px;">
-  <p align="center">📲 Connect with me:</p>
+  <p align="center">📲 Conecta conmigo / Connect with me:</p>
   <p align="center">
     <a href="https://linkedin.com/in/tiagoweintraub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiagoweintraub" height="30" width="40" /></a>
     <a href="https://instagram.com/tiagoweintraub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiagoweintraub" height="30" width="40" /></a>
@@ -16,29 +17,38 @@
 
 ---
 
-### 🌟 About Me
+# 👋 ¡Hola! / Hi there!
 
-- 📘 I’m currently working on **studies and projects**
+## 🌍 Español  
 
-- 🔋 Learning **some frontend and backend technologies, AI in Python, Kotlin and more**
-
-- 🤝 I like **challenges and teamwork**
-
-- ⚡ My favourite programming language is **Python**
-
-- 📈 I know about agile methodologies for project management, mainly the Scrum methodology
-
-- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/TiagoWeintraub)**.
-
-- 💬 Know more about me on **[Linkedin](https://www.linkedin.com/in/tiago-weintraub-971b77215/)**.
-
-- 📄 Check out my **[CV here](https://drive.google.com/file/d/1IgEknowsJE5k4zEOz0PEa9VesQRbteDp/view?usp=sharing)**.
-
-- 📬 How to reach me: tiagoweintraub23@gmail.com
+- 👨‍💻 Trabajo como **Data Engineer en Merovingian Data**, desarrollando procesos **ELT** con tecnologías como **Python, Databricks, DBT, Azure Data Lakes, Data Factory Pipelines, CI/CD, Key Vaults, Docker**, entre otras.  
+- 📘 Interesado en **IA, desarrollo backend/frontend y optimización de datos**.  
+- 🔋 Con conocimientos en **metodologías ágiles (Scrum)**.  
+- ⚡ Mi lenguaje favorito es **Python**.  
+- 📈 Me gustan los **retos y el trabajo en equipo**.  
+- 👨‍💻 Todos mis proyectos están en **[GitHub](https://github.com/TiagoWeintraub)**.  
+- 💬 Conóceme más en **[LinkedIn](https://www.linkedin.com/in/tiago-weintraub-971b77215/)**.  
+- 📄 Consulta mi **[CV aquí](https://drive.google.com/file/d/1IgEknowsJE5k4zEOz0PEa9VesQRbteDp/view?usp=sharing)**.  
+- 📬 Contáctame en: **tiagoweintraub23@gmail.com**  
 
 ---
 
-### 🚀 Languages and Tools
+## 🌍 English  
+
+- 👨‍💻 I work as a **Data Engineer at Merovingian Data**, building **ELT processes** with **Python, Databricks, DBT, Azure Data Lakes, Data Factory Pipelines, CI/CD, Key Vaults, Docker**, and more.  
+- 📘 Interested in **AI, backend/frontend development, and data optimization**.  
+- 🔋 Knowledge in **agile methodologies (Scrum)**.  
+- ⚡ My favorite programming language is **Python**.  
+- 📈 I enjoy **challenges and teamwork**.  
+- 👨‍💻 All my projects are available on **[GitHub](https://github.com/TiagoWeintraub)**.  
+- 💬 Learn more about me on **[LinkedIn](https://www.linkedin.com/in/tiago-weintraub-971b77215/)**.  
+- 📄 Check my **[CV here](https://drive.google.com/file/d/1IgEknowsJE5k4zEOz0PEa9VesQRbteDp/view?usp=sharing)**.  
+- 📬 Reach me at: **tiagoweintraub23@gmail.com**  
+
+
+---
+
+### 🚀 Algunos Lenguajes y Herramientas / Some Languages and Tools
 <div align="center">
   <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=yellow" alt="Python">
