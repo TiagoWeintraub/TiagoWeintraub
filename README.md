@@ -1,14 +1,11 @@
 
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Tiago Weintraub</h1>
 
----
-
 
 <h3 align="center">💻 Estudiante avanzado de Ingeneiería en Informática en la Universidad de Mendoza - Advanced student of Computer Engineering at the University of Mendoza</h3>
 
 <h3 align="center">📊 Ingeniero de Datos - Data Engineer</h3>
 
----
 
 <div align='center' style="margin-bottom: 30px;">
   <h4 align="center">📲 Conecta conmigo / Connect with me:</h4>
@@ -24,7 +21,6 @@
 
 ---
 
-# 👋 ¡Hola! / Hi there!
 
 ## 🌍 Español  
 
