@@ -1,7 +1,14 @@
 
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Tiago Weintraub</h1>
-<h3 align="center">💻 Estudiante avanzado de Ingeneiería en Informática en la Universidad de Mendoza - Ingeniero de Datos</h3>
-<h3 align="center">💻 Advanced student of Computer Engineering at the University of Mendoza - Data Engineer</h3>
+
+---
+
+
+<h3 align="center">💻 Estudiante avanzado de Ingeneiería en Informática en la Universidad de Mendoza - Advanced student of Computer Engineering at the University of Mendoza</h3>
+
+<h3 align="center">💻 Ingeniero de Datos - Data Engineer</h3>
+
+---
 
 <div align='center' style="margin-bottom: 30px;">
   <p align="center">📲 Conecta conmigo / Connect with me:</p>
@@ -12,7 +19,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&color=F77F0C&vCenter=true&width=650&lines=Passionate+about+development+and+contiunuous+learning;Powered+by+data+and+teamwork;Crafting+solutions+through+code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=970&color=35C8BF&background=19191900&center=true&vCenter=true&width=650&lines=Passionate+about+development+and+contiunuous+learning;Apasionado+por+el+desarrollo+y+el+aprendizaje+continuo;Driven+by+data+and+teamwork;Impulsado+por+datos+y+trabajo+en+equipo;Positive+and+proactive+mindset;Mentalidad+positiva+y+proactiva" alt="Typing SVG" />
 </p>
 
 ---
