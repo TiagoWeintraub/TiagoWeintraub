@@ -24,9 +24,8 @@
 
 ## 🌍 Español  
 
-- 👨‍💻 Trabajo como **Data Engineer**, desarrollando procesos **ETL** con tecnologías como **Python, Databricks, DBT, Azure Data Lakes, Data Factory Pipelines, CI/CD, Key Vaults, Docker**, entre otras.  
-- 📘 Interesado en **IA, desarrollo backend/frontend y optimización de datos**.  
-- 🔋 Con conocimientos en **metodologías ágiles (Scrum)**.  
+- 👨‍💻 Trabajo como **Data Engineer**, desarrollando procesos **ETL** con tecnologías como **Python, AWS Glue, DBT, Data Lakes, Pipelines CI/CD, Gobernanza de Datos, Containers**, entre otras.  
+- 🔋 Tengo conocimientos en **metodologías ágiles**.  
 - ⚡ Mi lenguaje favorito es **Python**.  
 - 📈 Me gustan los **retos y el trabajo en equipo**.  
 - 💬 Conóceme más en **[LinkedIn](https://www.linkedin.com/in/tiago-weintraub-971b77215/)**.  
@@ -36,13 +35,17 @@
 
 ## 🌍 English  
 
-- 👨‍💻 I work as a **Data Engineer at Merovingian Data**, building **ELT processes** with **Python, Databricks, DBT, Azure Data Lakes, Data Factory Pipelines, CI/CD, Key Vaults, Docker**, and more.  
-- 📘 Interested in **AI, backend/frontend development, and data optimization**.  
-- 🔋 Knowledge in **agile methodologies (Scrum)**.  
-- ⚡ My favorite programming language is **Python**.  
-- 📈 I enjoy **challenges and teamwork**.  
-- 💬 Learn more about me on **[LinkedIn](https://www.linkedin.com/in/tiago-weintraub-971b77215/)**.  
-- 📬 Reach me at: **tiagoweintraub23@gmail.com**  
+Here are a few ways to translate this into English, depending on where you plan to use it (like a GitHub profile, a resume summary, or a LinkedIn bio).
+
+Option 1: Professional & Direct (Recommended)
+This version uses standard industry terminology that recruiters look for.
+
+- 👨‍💻 I work as a Data Engineer, developing ETL processes using technologies such as Python, AWS Glue, dbt, Data Lakes, CI/CD Pipelines, Data Governance, and Containers.
+- 🔋 Experienced in Agile methodologies.
+- ⚡ My favorite language is Python.
+- 📈 I enjoy challenges and teamwork.
+- 💬 Learn more about me on LinkedIn.
+- 📬 Contact me at: tiagoweintraub23@gmail.com
 
 
 ---
