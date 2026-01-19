@@ -35,10 +35,6 @@
 
 ## 🌍 English  
 
-Here are a few ways to translate this into English, depending on where you plan to use it (like a GitHub profile, a resume summary, or a LinkedIn bio).
-
-Option 1: Professional & Direct (Recommended)
-This version uses standard industry terminology that recruiters look for.
 
 - 👨‍💻 I work as a Data Engineer, developing ETL processes using technologies such as Python, AWS Glue, dbt, Data Lakes, CI/CD Pipelines, Data Governance, and Containers.
 - 🔋 Experienced in Agile methodologies.
